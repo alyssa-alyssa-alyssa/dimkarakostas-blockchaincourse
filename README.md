@@ -4,4 +4,8 @@ This is the lecture material for the course Blockchains and Distributed Ledgers 
 
 The lecture presentation slides and other course material such as project descriptions are licensed under Creative Commons Attribution 4.0 (<a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>)
 
+## Updates
+
+An updated version of the material is available [here](https://github.com/Blockchain-Technology-Lab/bdl-course).
+
 The official web-site of the course is: <a href="https://course.inf.ed.ac.uk/bdl">https://course.inf.ed.ac.uk/bdl</a>
